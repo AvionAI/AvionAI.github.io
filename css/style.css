@@ -3792,7 +3792,6 @@ input[type="button"].btn-block {
   width: 1rem;
   height: 1rem;
   margin-top: -0.25rem;
-  background-color: #FDA00a2ffC53;
   border: 0;
   transition: background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
   appearance: none;
@@ -9600,8 +9599,8 @@ h6,
 }
 
 .page-header {
-  height: 400px;
-  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../fotolar/adımodtü.jpg);
+  height: 500px;
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../fotolar/teamdevrim.png);
   background-position: top;
   background-repeat: no-repeat;
   background-size: cover;
