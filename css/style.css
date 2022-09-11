@@ -659,7 +659,7 @@ pre code {
   position: relative;
   width: 100%;
   padding-right: 15px;
-  padding-left: 15px;
+  padding-left: 1px;
 }
 
 .col {
@@ -2324,9 +2324,9 @@ textarea.form-control {
 .btn {
   display: inline-block;
   font-weight: 400;
-  color: #4A4A4A;
+  color: #ffffff;
   text-align: center;
-  vertical-align: middle;
+  vertical-align: bo;
   user-select: none;
   background-color: transparent;
   border: 1px solid transparent;
@@ -6097,7 +6097,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #00a2ff !important;
+  background-color: #ebf8ff !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -9664,7 +9664,7 @@ h6,
   bottom: 0;
   left: 0;
   opacity: 0;
-  background: rgba(253, 172, 83, 0.7);
+  background: ;
   border: 15px solid #ffffff;
   transition: .5s;
 }
